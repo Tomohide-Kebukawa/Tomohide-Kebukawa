@@ -1,5 +1,7 @@
 <img src="https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg" width="240px" height="240px">
 
+プロフィール欄を用意してみたものの、何を書こうか悩み中。
+
 ### GitHubの勉強中だよ 👋
 
 <!--
