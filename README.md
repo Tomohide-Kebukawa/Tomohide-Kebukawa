@@ -1,4 +1,4 @@
-![Logo](https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg)
+<img src="https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg" width="240px" height="240px">
 
 ### GitHubの勉強中だよ 👋
 
