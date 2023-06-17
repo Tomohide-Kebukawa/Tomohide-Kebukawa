@@ -1,8 +1,12 @@
-<img src="https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg" width="240px" height="240px">
 
-プロフィール欄を用意してみたものの、何を書こうか悩み中。
+<div align="center">
+<img src="https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg" style="　width:240px; height:240px">
+</div>
 
 ### GitHubの勉強中だよ 👋
+
+プロフィール欄を用意してみたものの、何を書こうか悩み中。とりあえず`GitHub`の`MarkDown記法`に慣れるため、この`README.md`用意してみました。</div>
+
 
 <!--
 **Tomohide-Kebukawa/Tomohide-Kebukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
