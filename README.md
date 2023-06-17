@@ -1,4 +1,6 @@
-### Hi there 👋
+![Logo](https://github.com/Tomohide-Kebukawa/Tomohide-Kebukawa/blob/main/images/Logo-kebu.svg)
+
+### GitHubの勉強中だよ 👋
 
 <!--
 **Tomohide-Kebukawa/Tomohide-Kebukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
