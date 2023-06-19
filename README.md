@@ -5,8 +5,16 @@
 
 ### GitHubの勉強中だよ 👋
 
-プロフィール欄を用意してみたものの、何を書こうか悩み中。とりあえず`GitHub`の`MarkDown記法`に慣れるため、この`README.md`用意してみました。</div>
+`README.md`を用意してみたものの、何を書こうか悩み中。とりあえず`GitHub`の`MarkDown記法`に慣れるため、この`README.md`用意してみました。</div>
 
+## プロフィールの代わり
+
+プロフィールの代わりに、GitHubサイトを用意してみました。
+
+> [Tomohide-Kebukawa.github.io](https://tomohide-kebukawa.github.io/)
+
+Pagesを使って構築しています。
+GitHub Actionsの勉強を兼ねています。
 
 <!--
 **Tomohide-Kebukawa/Tomohide-Kebukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
